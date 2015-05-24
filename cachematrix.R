@@ -1,3 +1,7 @@
+## This assignment has two parts. 1)Create a matrix and caching the Inverse of a Matrix
+## 2) uses solve() to calculate the inverse of a given matrix and by taking advantage of
+##  R's scoping rules is able to cache it's results.
+
 ## This function creates a special "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
