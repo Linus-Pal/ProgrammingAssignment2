@@ -1,5 +1,19 @@
 ##RCode Updated for Assignment
 
+summary, all steps you have to do are:
+1. Fork the ProgrammingAssignment2 repository
+2. Clone it in your local computer by using the command:
+- git clone https://github.com/your_user_name/ProgrammingAssignment2.git
+3. Adding a remote (actually I don't know what is the latent purpose of this command, so If you find out pls explain it to me)
+- cd ProgrammingAssignment2
+- git remote add upstream https://github.com/your_user_name/ProgrammingAssignment2.git
+4. Working in branch
+Create a branch: -git checkout -b <new_branch_name>
+Make changes to the branch: -git add cachematrix.R  and then edit this file with the solution you find out
+Commit your changes: -git commit -m "Whatever here"
+5. Push changes to Github:
+-git push origin <Branch_name>
+
 ### Introduction
 
 This second programming assignment will require you to write an R
