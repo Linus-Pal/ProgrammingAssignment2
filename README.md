@@ -12,7 +12,7 @@ Create a branch: -git checkout -b <new_branch_name>
 Make changes to the branch: -git add cachematrix.R  and then edit this file with the solution you find out
 Commit your changes: -git commit -m "Whatever here"
 5. Push changes to Github:
--git push origin <Branch_name>
+-git push origin<Branch_name>
 
 ### Introduction
 
